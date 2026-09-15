@@ -13,19 +13,6 @@
     }
   },
   {
-    "repositoryUrl": "https://api.github.com/repos/humanwhocodes/momoa",
-    "htmlUrl": "https://github.com/humanwhocodes/momoa/issues/242",
-    "id": 5221208013,
-    "nodeId": "I_kwDOC2jYRc8AAAABNzVPzQ",
-    "number": 242,
-    "title": "`3.3.12` was published without provenance",
-    "createdAt": "2026-08-22T09:15:00Z",
-    "closedAt": "2026-09-02T17:49:55Z",
-    "reactions": {
-      "+1": 4
-    }
-  },
-  {
     "repositoryUrl": "https://api.github.com/repos/bruits/satteri",
     "htmlUrl": "https://github.com/bruits/satteri/issues/211",
     "id": 5138837224,
